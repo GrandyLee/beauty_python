@@ -1,2 +1,6 @@
 # beauty_python
-for study python
+**for study python**
+成员|地址|联系方式
+----|:----|:----
+王位|深圳|417243205
+李维新|成都|45406700
