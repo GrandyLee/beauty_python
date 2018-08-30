@@ -1,5 +1,4 @@
 # beauty_python
-----
 **for study python**
 *****
 - 创建新的项目
